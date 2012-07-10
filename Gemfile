@@ -28,6 +28,8 @@ group :test, :development do
   gem 'spork', '0.9.0'
 end
 
+#gem 'annotate', '2.4.0', group: :development
+
 group :test do
   gem 'capybara', '1.1.2'
   gem 'rb-inotify', '0.8.8'
